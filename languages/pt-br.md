@@ -43,7 +43,7 @@ flowchart LR
     Fork[Dê um Fork]-->branch[Crie uma nova Branch]
     branch -->Edição[Edite o arquivo]
     Edição -->commit[Commite as mudanças]
-    commit -->|Finalmente|creatpr((Crie um Pull Request))
+    commit -->|E finalmente|creatpr((Crie um Pull Request))
 
 ```
 
