@@ -13,7 +13,7 @@ Dê uma estrela no repositório pressionando o botão superior direito para inic
 <a href="https://github.com/niegfg/Hacktoberfest-2022/tree/main/contributors" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
 </div>
 <div align="center">
-  <spam>Outros Idiomas<span><br>
+  <spam>Outros Idiomas:<span><br>
   <a href="/languages/pt-br.md">Português Brasileiro</a>
 </div>
 
