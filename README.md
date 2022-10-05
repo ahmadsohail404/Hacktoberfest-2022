@@ -1,5 +1,9 @@
 # Hacktoberfest-2022 X NIE GFG Student Chapter🔥
 
+### Star The Repo :star2:
+
+Star the repo by pressing the topmost-right button to start your wonderful journey.
+
 ![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
 
 <div align="center">
