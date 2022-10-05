@@ -17,8 +17,6 @@ Star the repo by pressing the topmost-right button to start your wonderful journ
 
 :star: Feel free to use this repo to make your first contribution to an open-source project on GitHub. Practice making your first pull request to a public repository before doing the real thing! Don't forget to STAR this repo :D
 
-# Don't forget to add your name in [contributors](https://github.com/niegfg/Hacktoberfest-2022/tree/main/contributors) folder
-
 :star: Make sure to grab some cool swags during Hacktoberfest by getting involved in the open-source community.
 
 ### This repository is open to all members of the GitHub community. Any member can contribute to this project! :grin:
